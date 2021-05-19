@@ -1,0 +1,5 @@
+card_name: test_card
+qfn: test_q.png
+afn: test_a.png
+tags: test,exclude
+associate: none
