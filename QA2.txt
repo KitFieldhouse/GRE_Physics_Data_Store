@@ -1,5 +1,5 @@
 card_name: IGL_state_assump
-qfn: IGQ
-afn: IGA
+qfn: IGQ.png
+afn: IGA.png
 tags: Thermodynamics, IGL
 associate: none
