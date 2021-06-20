@@ -1,2 +1,7 @@
 QA1.txt
 QA2.txt
+QA3.txt
+QA4.txt
+QA5.txt
+QA6.txt
+QA7.txt
