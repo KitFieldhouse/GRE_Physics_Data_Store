@@ -1,0 +1,5 @@
+card_name: Schroder1_8_c
+qfn: SCHR1_8_cQ.png
+afn: SCHR1_8_cA.png
+tags: thermodynamics,expansion,problem
+associate: none

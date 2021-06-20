@@ -1,0 +1,5 @@
+card_name: def_of_exp_beta
+qfn: TECDQ.png
+afn: TECDA.png
+tags: thermodynamics,expansion
+associate: none

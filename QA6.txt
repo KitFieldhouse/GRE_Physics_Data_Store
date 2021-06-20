@@ -1,0 +1,5 @@
+card_name: avagadros_def
+qfn: AVQ.png
+afn: AVA.png
+tags: thermodynamics,constants
+associate: none

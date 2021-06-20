@@ -1,0 +1,5 @@
+card_name: def_of_rankine_scale
+qfn: RANQ.png
+afn: RANA.png
+tags: thermodynamics,temperature
+associate: none

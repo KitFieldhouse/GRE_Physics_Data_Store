@@ -1,0 +1,5 @@
+card_name: sch_1.1
+qfn: SCH1_1Q.png
+afn: SCH1_1Q.png
+tags: thermodynamics,problem
+associate: none
